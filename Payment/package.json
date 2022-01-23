@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon"
+    "test": "echo \"Error: no test specfied\" && exit 1",
+    "start": "nodemon PaymentControl.js"
   },
   "keywords": [],
   "author": "",
